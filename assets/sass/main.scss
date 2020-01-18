@@ -1,14 +1,19 @@
+@import "abstracts/fonts";
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
+
+@import "base/animations";
 @import "base/base";
-@import "base/fonts";
 @import "base/typography";
 @import "base/utilities";
 
+
 @import "components/card";
+
 
 @import "layouts/footer";
 @import "layouts/header";
+
 
 @import "pages/home";

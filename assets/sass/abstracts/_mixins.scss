@@ -1,0 +1,13 @@
+// mixin for FONT STYLE
+@mixin font-style(
+    $family:$font-primary, $weight:$font-regular, $size:1.4rem, $height:normal, $style:normal, $letter-spacing:normal, $color:$color-primary, $align:left) {
+
+        font-family: $family;
+        font-weight: $weight;
+        font-size: $size;
+        line-height: $height;
+        font-style: $style;
+        letter-spacing: $letter-spacing;
+        color: $color;
+        text-align: $align;
+    }
