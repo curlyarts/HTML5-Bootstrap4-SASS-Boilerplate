@@ -1,0 +1,16 @@
+// Links
+a,
+a:focus,
+a:hover {
+    color: $color-grey-dark-3;
+}
+
+// Custom default button
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+    color: $color-primary;
+    text-shadow: none; // Prevent inheritance from `body`
+    background-color: $color-grey-light-3;
+    border: .05rem solid $color-grey-light-3;
+}
