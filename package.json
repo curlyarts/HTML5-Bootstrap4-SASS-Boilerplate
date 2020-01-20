@@ -9,8 +9,8 @@
     "compress:css": "node-sass assets/css/styles.prefix.css assets/css/styles.css --output-style compressed",
     "build:css": "npm-run-all compile:sass prefix:css compress:css",
     "watch:sass": "node-sass assets/sass/main.scss assets/css/styles.css -w",
-    "devserver": "live-server",
-    "start": "npm-run-all --parallel devserver watch:sass"
+    "start": "live-server --port=9000",
+    "dev": "npm-run-all --parallel start watch:sass"
   },
   "browserslist": [
     "last 10 versions"
@@ -29,6 +29,7 @@
     "@fortawesome/fontawesome-free": "^5.12.0",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
+    "live-server": "^1.2.1",
     "popper.js": "^1.16.0"
   },
   "devDependencies": {

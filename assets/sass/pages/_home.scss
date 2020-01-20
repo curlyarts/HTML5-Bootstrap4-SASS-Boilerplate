@@ -15,7 +15,7 @@
             &__heading {
                 @include font-style(
                     $weight:$font-extra-bold,
-                    $size:3rem,
+                    $size:3.2rem,
                     $height:3.4rem,
                     $letter-spacing:0.1rem,
                     $color:$color-secondary,
@@ -30,7 +30,7 @@
             &__lead {
                 @include font-style(
                     $weight:$font-medium,
-                    $size:2.4rem,
+                    $size:2.2rem,
                     $height:3rem,
                     $letter-spacing:0.18rem,
                     $color:$color-grey-light-1,
