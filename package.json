@@ -8,7 +8,9 @@
     "prefix:css": "postcss assets/css/styles.comp.css --use=autoprefixer -o assets/css/styles.prefix.css",
     "compress:css": "node-sass assets/css/styles.prefix.css assets/css/styles.css --output-style compressed",
     "build:css": "npm-run-all compile:sass prefix:css compress:css",
+
     "watch:sass": "node-sass assets/sass/main.scss assets/css/styles.css -w",
+    "dev": "npm-run-all --parallel start watch:sass",
     "start": "live-server --port=9000"
   },
   "browserslist": [
