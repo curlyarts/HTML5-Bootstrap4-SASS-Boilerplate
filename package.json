@@ -10,9 +10,7 @@
     "build:css": "npm-run-all compile:sass prefix:css compress:css",
     "watch:sass": "node-sass assets/sass/main.scss assets/css/styles.css -w",
     "start": "live-server --port=9000",
-    "dev": "npm-run-all --parallel start watch:sass",
-    "predeploy": "npm run build:css",
-    "deploy": "gh-pages -d build"
+    "dev": "npm-run-all --parallel start watch:sass"
   },
   "browserslist": [
     "last 10 versions"
@@ -36,7 +34,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.4",
-    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.1",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^7.1.0"
