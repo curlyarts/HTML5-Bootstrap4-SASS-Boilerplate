@@ -1,6 +1,6 @@
 # [HTML5-Bootstrap4-SASS-Boilerplate](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate)
 
-![](assets/doc/screenshot.jpg)
+[![](assets/doc/screenshot.jpg)](https://curlyarts.github.io/HTML5-Bootstrap4-SASS-Boilerplate/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/blob/master/LICENSE.txt)
 [![github-stars-image](https://img.shields.io/github/stars/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate.svg?label=github%20stars)](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/)
@@ -10,7 +10,7 @@ The HTML5-Bootstrap4-SASS Boilerplate to quickstart a HTML5-Bootstrap4-SASS proj
 HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for building fast, robust, and adaptable Bootstrap4 web apps or sites.
 
 
-### Table of Contents
+#### Table of Contents
 * [Quick Start](#quick-start)
 * [Versions](#versions)
 * [Key Features](#key-features)
@@ -22,18 +22,22 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 * [License](#license)
 
 
-### Quick Start
-- Clone the repo: `git clone https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate.git`
+#### Quick Start
+- Clone the repo: `git clone https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate.git -b master --single-branch`
 - Go inside the folder: `cd HTML5-Bootstrap4-SASS-Boilerplate`
 - Install necessary libraries: `npm install`
 - Build CSS: `npm run build:css`
-- Run Project: `npm start`
+- Run Project: `npm run start`
+- - This command will run your project in the 9000 PORT of your local server.
+- - It will automatically open a new tab in your default browser. Otherwise, go to your browser and enter `127.0.0.1:9000`
+- Development: `npm run dev`
+- - If you are developing a template and parallelly want to see the progress, this command will always watch your SASS files and continuously compile, build CSS and update the DOM in the browser.
 
 
-### Versions
+#### Versions
+1. [1.0.0]()
 
-
-### Key Features:
+#### Key Features:
 1. Built with latest Bootstrap 4
 1. Built with SASS
 1. Google fonts support
@@ -41,19 +45,19 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 1. Free updates
 
 
-### Files Included:
+#### Files Included:
 1. index.html file (Demo Boilerplate HTML Template)
 1. Supporting SASS, JS files
 1. package.json
 
 
-### CSS and JavaScript Libraries:
+#### CSS and JavaScript Libraries:
 1. Bootstrap 4
 1. Font Awesome Icon 5
 1. jQuery
 
 
-### File Structure
+#### File Structure
 ```
 ├─ .gitignore
 ├─ assets
@@ -89,24 +93,24 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 ```
 
 
-### Browser Support
+#### Browser Support
 ![](assets/doc/chrome.png) ![](assets/doc/firefox.png) ![](assets/doc/opera.png) ![](assets/doc/edge.png) ![](assets/doc/safari.png)
 
-### Resources
+#### Resources
 - Demo: [https://curlyarts.github.io/HTML5-Bootstrap4-SASS-Boilerplate/](https://curlyarts.github.io/HTML5-Bootstrap4-SASS-Boilerplate/)
 - Download Page: [Clone or Download](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate)
 - Documentation: [README.md](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/blob/master/README.md)
 - Issues: [Github Issues Page](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/issues)
 
 
-### License
+#### License
 
 Copyright © 2020 [CurlyArts](https://curlyarts.com/).
 
 The code is available under the MIT license.
 
 
-#### Social Media
+##### Social Media
 
 [Facebook](https://www.facebook.com/CurlyArts.Official/)
 
