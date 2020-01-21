@@ -23,7 +23,7 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 
 
 #### Quick Start
-- Clone the repo: `git clone https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate.git -b master --single-branch`
+- Clone the repo: `git clone https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate.git --branch v1.0.0 --single-branch --depth 1`
 - Go inside the folder: `cd HTML5-Bootstrap4-SASS-Boilerplate`
 - Install necessary libraries: `npm install`
 - Build CSS: `npm run build:css`
@@ -35,7 +35,8 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 
 
 #### Versions
-1. [1.0.0]()
+[1.0.0](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/releases/v1.0.0)
+
 
 #### Key Features:
 1. Built with latest Bootstrap 4
