@@ -64,6 +64,9 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 ├─ assets
 │  ├─ css
 │  │  └─ styles.css
+|  ├─ doc
+|  |  ├─ screenshot.jpg
+│  │  └─ ...
 │  ├─ js
 │  │  └─ scripts.js
 │  └─ sass
@@ -87,10 +90,8 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 ├─ favicon.ico
 ├─ index.html
 ├─ LICENSE
-├─ package-lock.json
 ├─ package.json
-├─ README.md
-└─ screenshot.jpg
+└─ README.md
 ```
 
 
