@@ -1,14 +1,16 @@
 # [HTML5-Bootstrap4-SASS-Boilerplate](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate)
+
+![](assets/doc/screenshot.jpg)
+
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/blob/master/LICENSE.txt)
-[![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/)
+[![github-stars-image](https://img.shields.io/github/stars/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate.svg?label=github%20stars)](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/)
 
 The HTML5-Bootstrap4-SASS Boilerplate to quickstart a HTML5-Bootstrap4-SASS project!!
+
 HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for building fast, robust, and adaptable Bootstrap4 web apps or sites.
 
 
-
 ### Table of Contents
-* [Demo](#demo)
 * [Quick Start](#quick-start)
 * [Versions](#versions)
 * [Key Features](#key-features)
@@ -18,10 +20,6 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 * [Browser Support](#browser-support)
 * [Resources](#resources)
 * [License](#license)
-
-
-### Demo
-![]()
 
 
 ### Quick Start
@@ -86,28 +84,32 @@ HTML5-Bootstrap4-SASS Boilerplate is a professional front-end template for build
 ├─ LICENSE
 ├─ package-lock.json
 ├─ package.json
-└─ README.md
+├─ README.md
+└─ screenshot.jpg
 ```
 
 
 ### Browser Support
-
+![](assets/doc/chrome.png) ![](assets/doc/firefox.png) ![](assets/doc/opera.png) ![](assets/doc/edge.png) ![](assets/doc/safari.png)
 
 ### Resources
 - Demo: [https://curlyarts.github.io/HTML5-Bootstrap4-SASS-Boilerplate/](https://curlyarts.github.io/HTML5-Bootstrap4-SASS-Boilerplate/)
 - Download Page: [Clone or Download](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate)
 - Documentation: [README.md](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/blob/master/README.md)
-- Issues: [Github Issues Page]()
+- Issues: [Github Issues Page](https://github.com/curlyarts/HTML5-Bootstrap4-SASS-Boilerplate/issues)
 
 
 ### License
+
+Copyright © 2020 [CurlyArts](https://curlyarts.com/).
+
 The code is available under the MIT license.
 
 
 #### Social Media
 
-Twitter: 
+[Facebook](https://www.facebook.com/CurlyArts.Official/)
 
-Facebook: 
+[Twitter]()
 
-Dribbble: 
+[Dribbble]()
